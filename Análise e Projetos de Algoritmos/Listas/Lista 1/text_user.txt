@@ -1,0 +1,1 @@
+Definidos como pontos extremos, os outliers são observações que não seguem um comportamento padrão em uma série temporal. 
